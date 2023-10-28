@@ -1,0 +1,27 @@
+{
+    "name": "10_logo-generator",
+    "version": "1.0.0",
+    "description": "[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)",
+    "main": "index.js",
+    "directories": {
+      "example": "examples",
+      "lib": "lib"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/coleparrish9/Challenge-10"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/coleparrish9"
+    },
+    "homepage": "https://github.com/coleparrish9",
+    "dependencies": {
+      "jest": "^29.5.0",
+      "inquirer": "^8.2.4"
+    }
+  }
